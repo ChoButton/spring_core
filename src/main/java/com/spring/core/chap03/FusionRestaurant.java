@@ -1,4 +1,4 @@
-package com.spring.core.chap02;
+package com.spring.core.chap03;
 
 public class FusionRestaurant implements Restaurant {
     // 셰프

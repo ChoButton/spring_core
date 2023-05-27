@@ -1,6 +1,4 @@
-package com.spring.core.chap02.config;
-
-import com.spring.core.chap02.*;
+package com.spring.core.chap04;
 
 // 현재까지 최상위 객체인 호텔을 운영하기 위해 필요한
 // 모든 객체들을 관리하고 주입해주는 클래스
